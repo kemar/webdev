@@ -41,6 +41,7 @@
 - [DevDocs](http://devdocs.io)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [Know it all](https://know-it-all.io) - Discover things that you don't know about web development
 
 ### Release notes
 
