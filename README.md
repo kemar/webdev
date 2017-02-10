@@ -36,6 +36,10 @@
 
 ## Generalists
 
+### Learn
+
+- [Mozilla - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
+
 ### Doc
 
 - [DevDocs](http://devdocs.io)
