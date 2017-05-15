@@ -7,6 +7,7 @@
 - [Standards](#standards)
 - [Generalists](#generalists)
 - [Accessibility](#accessibility)
+- [Security](#security)
 - [Core Web platform APIs](#core-web-platform-apis)
 - [HTML](#html)
 - [CSS](#css)
@@ -57,6 +58,10 @@
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 - [ARIA Landmarks Example](https://w3c.github.io/aria-practices/examples/landmarks/index.html)
+
+## Security
+
+- [The Open Web Application Security Project (OWASP)](https://www.owasp.org/)
 
 ## Core Web platform APIs
 
