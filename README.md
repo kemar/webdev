@@ -62,6 +62,7 @@
 ## Security
 
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/)
+- [HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 
 ## Core Web platform APIs
 
