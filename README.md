@@ -103,6 +103,7 @@
 - [CSS current work & how to participate](http://www.w3.org/Style/CSS/current-work)
 - [Mirror of CSS WG Editor Draft repository](https://github.com/w3c/csswg-drafts)
 - [Incomplete List of Mistakes in the Design of CSS](https://wiki.csswg.org/ideas/mistakes)
+- [CSS Database - What’s next for CSS?](https://jonathantneal.github.io/css-db/)
 
 ### Vocabulary
 
