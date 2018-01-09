@@ -257,6 +257,7 @@
 ## Other lists
 
 - [FrontLinks](https://github.com/simurai/simurai.github.io/blob/master/_posts/2014-10-01-front-links.md)
+- [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev/blob/master/README.md)
 - [Web Design References](http://www.d.umn.edu/itss/support/Training/Online/webdesign/) - University of Minnesota Duluth
 
 ## License
