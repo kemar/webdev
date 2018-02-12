@@ -58,6 +58,7 @@
 - [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 - [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
 - [ARIA Landmarks Example](https://w3c.github.io/aria-practices/examples/landmarks/index.html)
+- [WebAIM Resources](https://webaim.org/resources/) - [Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
 
 ## Security
 
