@@ -80,7 +80,7 @@
 - [The HTML Landscape](https://www.w3.org/html/landscape/)
 - [WHATWG HTML Living Standard](https://html.spec.whatwg.org/multipage/)
 - [WHATWG HTML5 — Edition for Web Developers](https://developers.whatwg.org)
-- [W3C HTML 5.2](http://w3c.github.io/html/)
+- [W3C HTML 5](http://w3c.github.io/html/)
 
 ### Elements
 
