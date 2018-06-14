@@ -65,6 +65,7 @@
 - [The Open Web Application Security Project (OWASP)](https://www.owasp.org/)
 - [HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
+- [CORS](https://frontendian.co/cors)
 
 ## Core Web platform APIs
 
