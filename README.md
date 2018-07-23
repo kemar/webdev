@@ -66,6 +66,7 @@
 - [HTTP security headers](https://blog.appcanary.com/2017/http-security-headers.html)
 - [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 - [CORS](https://frontendian.co/cors)
+- [Content Security Policy Reference](https://content-security-policy.com)
 
 ## Core Web platform APIs
 
