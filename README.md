@@ -38,20 +38,13 @@
 
 ## Generalists
 
-### Learn
-
-- [Mozilla - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
-
-### Doc
-
 - [DevDocs](http://devdocs.io)
 - [Mozilla Developer Network](https://developer.mozilla.org/)
 - [Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [Know it all](https://know-it-all.io) - Discover things that you don't know about web development
 
 ### Release notes
 
-- [What's New In A Spec](http://espadrine.github.io/New-In-A-Spec/)
+- [What's New In A Spec](https://espadrine.github.io/New-In-A-Spec/)
 
 ## Accessibility
 
@@ -73,7 +66,7 @@
 
 - [The Web platform: Browser technologies](https://platform.html5.org)
 - [Can I use](http://caniuse.com)
-- [HTML5 Please](http://html5please.com)
+- [HTML5 Please](https://html5please.com)
 - [API Catalog](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/)
 
 ## HTML
@@ -128,81 +121,20 @@
 - [Visual guide to CSS](http://cssreference.io/)
 - [What’s next for CSS? - cssdb](https://cssdb.org)
 
-
 ## JavaScript
 
-### Specifications
-
-- [Annotated ECMAScript 5.1](http://es5.github.io)
-- [ECMAScript® 2016 Language Specification](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
-- [tc39/ecma262](https://github.com/tc39/ecma262)
+- [TC39 - Specifying JavaScript](https://tc39.github.io)
+- [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262)
 - [ECMAScript Discussion Archives](https://esdiscuss.org)
-- [A brief history of ECMAScript versions](https://dzone.com/articles/brief-history-ecmascript)
-- [stage-0 to stage-4 ECMAscript proposals](https://github.com/hemanth/es-next)
-
-### Engines
-
-- [List of ECMAScript engines](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-
-### Compatibility
-
 - [ECMAScript compatibility tables](http://kangax.github.io/compat-table/)
-
-### Videos
-
-- [Must-watch videos about JavaScript](https://github.com/bolshchikov/js-must-watch)
-
-### Books and guides
-
-- [JavaScript. The core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/) (ES3)
-- [ECMA-262-3 in detail](https://gist.github.com/jose8a/e19bfb3525391a72788e) (ES3)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) (ES5 - ES6)
-- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) (ES6)
-- [Exploring ES6](http://exploringjs.com/es6/) (ES6)
 
 ## Python
 
-### Specifications
-
 - [CPython source](https://github.com/python/cpython), read-only mirror of [Python Mercurial repository](https://hg.python.org)
 - [Python Enhancement Proposals](https://www.python.org/dev/peps/)
-- [Python Warts](https://wiki.python.org/moin/PythonWarts)
-
-### Doc
-
-- [Python 3](https://docs.python.org/3/) - [Python 2](https://docs.python.org/2/)
-
-### Bugs
-
-- [Python tracker](https://bugs.python.org)
-
-### Virtual environments
-
-- [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/)
-
-### Style
-
+- [Python documentation](https://docs.python.org/3/)
+- [Python bug tracker](https://bugs.python.org)
 - [PEP 8](http://pep8.org)
-
-### Python 3
-
-- [Python 3 Q & A](http://python-notes.curiousefficiency.org/en/latest/python3/questions_and_answers.html)
-- [Python FAQ: Why should I use Python 3?](https://eev.ee/blog/2016/07/31/python-faq-why-should-i-use-python-3/)
-
-### Books and guides
-
-- [Intermediate Python](http://book.pythontips.com/en/latest/index.html)
-- [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
-- [Python cheatsheet](https://www.pythonsheets.com)
-- [Python Essential Reference](http://www.dabeaz.com/per.html)
-
-### Packaging
-
-- [Python Packaging User Guide](https://python-packaging-user-guide.readthedocs.io)
-
-### Videos
-
-- [Must-watch videos about Python](https://github.com/s16h/py-must-watch)
 
 ## Browsers
 
@@ -262,7 +194,6 @@
 
 ## Other lists
 
-- [FrontLinks](https://github.com/simurai/simurai.github.io/blob/master/_posts/2014-10-01-front-links.md)
 - [Spellbook of Modern Web Dev](https://github.com/dexteryy/spellbook-of-modern-webdev/blob/master/README.md)
 - [Web Design References](http://www.d.umn.edu/itss/support/Training/Online/webdesign/) - University of Minnesota Duluth
 
