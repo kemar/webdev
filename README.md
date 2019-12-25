@@ -14,7 +14,7 @@
 - [JavaScript](#javascript)
 - [Python](#python)
 - [Browsers](#browsers)
-- [HTTP](#http)
+- [Networking](#networking)
 - [Unicode](#unicode)
 - [Other lists](#other-lists)
 
@@ -170,10 +170,11 @@
 - [Firefox](https://hg.mozilla.org/mozilla-central/)
 - [WebKit](https://trac.webkit.org/browser)
 
-## HTTP
+## Networking
 
-### Specifications
+### Specifications / Books
 
+- [High Performance Browser Networking](https://hpbn.co)
 - [IETF HTTP Working Group](http://httpwg.org)
 - [HTTP/2](https://http2.github.io)
 
