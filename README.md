@@ -183,7 +183,7 @@
 
 - [Analyse your HTTP response headers](https://securityheaders.io/)
 - [List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
-- [Standard HTTP headers](http://www.iana.org/assignments/message-headers/perm-headers.html)
+- [Standard HTTP headers (IANA)](https://www.iana.org/assignments/message-headers/message-headers.xhtml)
 
 ### TLS
 
