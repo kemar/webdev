@@ -185,6 +185,10 @@
 - [List of HTTP header fields](https://en.wikipedia.org/wiki/List_of_HTTP_header_fields)
 - [Standard HTTP headers (IANA)](https://www.iana.org/assignments/message-headers/message-headers.xhtml)
 
+### HTTP Status Codes
+
+- [HTTP Status Code Registry](https://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
+
 ### TLS
 
 - [SSL Server Test](https://www.ssllabs.com/ssltest/)
