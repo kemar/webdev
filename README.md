@@ -88,7 +88,6 @@
 ### Head
 
 - [List of Usable HTML Meta and Link Tags](https://gist.github.com/kevinSuttle/1997924)
-- [&lt;head&gt; Cheat Sheet](http://gethead.info "&lt;head&gt; Cheat Sheet")
 - [A free guide to HTML5 &lt;head&gt; elements](https://htmlhead.dev)
 
 ### Validation
