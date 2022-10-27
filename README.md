@@ -81,7 +81,8 @@
 
 ### Elements
 
-- [The Elements of HTML](http://cdn.rawgit.com/w3c/elements-of-html/master/)
+- [HTML elements reference](https://developer.mozilla.org/docs/Web/HTML/Element)
+- [The elements of HTML](https://html.spec.whatwg.org/multipage/semantics.html)
 - [HTML Elements Index](https://meiert.com/en/indices/html-elements/)
 - [Native form elements](http://nativeformelements.com)
 
